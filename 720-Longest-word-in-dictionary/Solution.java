@@ -1,4 +1,4 @@
-class Solution {
+
     class Node{
         Node[] children  = new Node[26];
         boolean eow = false;
@@ -45,4 +45,3 @@ class Solution {
 
         return ans;
     }
-}
