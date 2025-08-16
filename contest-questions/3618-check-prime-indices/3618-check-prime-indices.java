@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-8class Solution {
+class Solution {
     public static boolean isPrime(int n) {
     if (n <= 1) {
         return false;
