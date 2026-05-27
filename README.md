@@ -10,10 +10,12 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Trie
 |  |
 | ------- |
