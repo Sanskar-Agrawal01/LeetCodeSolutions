@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
