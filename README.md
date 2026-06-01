@@ -47,16 +47,19 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
