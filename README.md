@@ -11,6 +11,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [2126-destroying-asteroids](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
