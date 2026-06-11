@@ -7,7 +7,6 @@ public class Node {
         this.dest = d;
     }
 }
-
 class Solution {
     public static int assignEdgeWeights(int[][] edges) {
         int mod = 1000000007;
@@ -15,12 +14,10 @@ class Solution {
         for (int[] nums : edges) {
             maxNode = Math.max(maxNode, Math.max(nums[0], nums[1]));
         }
-
         ArrayList<Node>[] graph = new ArrayList[maxNode + 1];
         for (int i = 0; i <= maxNode; i++) {
             graph[i] = new ArrayList<>();
         }
-
         boolean[] vis = new boolean[maxNode + 1];
         for (int nums[] : edges) {
             int u = nums[0];
@@ -37,7 +34,6 @@ class Solution {
         return (int) modPow(2, depth - 2, mod);
 
     }
-
     public static int dfs(List<Node> graph[], boolean vis[], int curr) {
         vis[curr] = true;
         int maxDepth = 0;
@@ -49,7 +45,6 @@ class Solution {
         }
         return maxDepth + 1;
     }
-
     static long modPow(long a, long b, long mod) {
         long res = 1;
         while (b > 0) {
