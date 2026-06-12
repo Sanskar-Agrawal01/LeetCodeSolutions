@@ -12,6 +12,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -59,6 +61,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,9 +114,14 @@
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
