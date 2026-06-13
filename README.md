@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2126-destroying-asteroids](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -116,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
