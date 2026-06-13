@@ -15,6 +15,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
