@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2126-destroying-asteroids](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
@@ -122,6 +123,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
