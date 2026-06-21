@@ -8,6 +8,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -100,6 +101,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -107,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
