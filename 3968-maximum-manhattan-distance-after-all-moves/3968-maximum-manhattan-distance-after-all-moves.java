@@ -13,7 +13,7 @@ class Solution {
             else if(ch == 'D')d++;
             else if (ch == '_') b++;
         }
-        dist = Math.abs(l -r) + Math.abs(u - d);
+        dist = Math.abs(l - r) + Math.abs(u - d);
         if(b == 0) return dist;
         return dist + b;
     }
