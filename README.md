@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -154,5 +156,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
