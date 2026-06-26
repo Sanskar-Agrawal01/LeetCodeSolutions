@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
@@ -72,6 +73,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -81,6 +83,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -89,6 +92,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
