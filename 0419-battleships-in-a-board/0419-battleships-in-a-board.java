@@ -13,7 +13,6 @@ class Solution {
 
     }
     void dfs(int i, int j, char board[][]){
-        //if(i < 0 || j <  0 || i>= board.length || j>= board.length) return;
         board[i][j] = 'N';
         int dr [] = {0, -1, 0, 1};
         int dc [] = {-1, 0, 1, 0};
