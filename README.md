@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
