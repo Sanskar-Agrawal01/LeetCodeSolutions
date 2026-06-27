@@ -39,6 +39,7 @@
 | [0072-edit-distance](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
