@@ -31,6 +31,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -41,6 +42,7 @@
 | [0072-edit-distance](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -189,4 +191,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
