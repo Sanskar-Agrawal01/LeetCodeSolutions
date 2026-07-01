@@ -59,6 +59,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
@@ -132,6 +134,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -195,4 +198,12 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
