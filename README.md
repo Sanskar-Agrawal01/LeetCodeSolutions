@@ -20,6 +20,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2574-left-and-right-sum-differences](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
@@ -189,11 +192,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,4 +211,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
