@@ -25,6 +25,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
@@ -73,6 +74,7 @@
 | [0072-edit-distance](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -150,6 +152,7 @@
 | ------- |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
@@ -219,12 +222,19 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
