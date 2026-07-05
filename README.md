@@ -104,6 +104,7 @@
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -119,6 +120,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -226,6 +229,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
