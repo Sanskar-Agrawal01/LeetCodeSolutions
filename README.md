@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
+| [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
