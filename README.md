@@ -53,6 +53,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -170,6 +171,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
 | ------- |
