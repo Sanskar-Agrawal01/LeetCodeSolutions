@@ -31,6 +31,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [2126-destroying-asteroids](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -188,6 +192,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -255,4 +260,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
