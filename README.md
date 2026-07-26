@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -190,6 +192,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
