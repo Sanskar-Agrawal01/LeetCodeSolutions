@@ -8,11 +8,10 @@ public class Solution {
         String maxStr = s.substring(0, 1);
 
         for (int i = 0; i < s.length(); i++) {
-            for (int j = i + 1; j <= s.length(); j++) {
-                String str = s.substring(i, j);
-                if(isPalindrome(str) && j - i > maxLen){
-                    maxLen = str.length();
-                    maxStr = str;
+            for (int j = i + maxLen; j <= s.length(); j++) {
+                if (j - i > maxLen && isPalindrome(s.substring(i, j))) {
+                    maxLen = j - i;
+                    maxStr = s.substring(i, j);
                 }
             }
         }
