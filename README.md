@@ -8,6 +8,7 @@
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
@@ -85,6 +86,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0072-edit-distance) |
+| [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
