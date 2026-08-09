@@ -8,6 +8,7 @@
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
@@ -119,6 +120,7 @@
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -239,6 +242,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -247,6 +251,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
