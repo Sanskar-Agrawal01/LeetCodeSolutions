@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -314,4 +315,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
