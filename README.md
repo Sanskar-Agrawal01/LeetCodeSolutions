@@ -10,6 +10,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
@@ -91,6 +92,7 @@
 | [0072-edit-distance](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0072-edit-distance) |
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
+| [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -196,6 +198,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -205,6 +208,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
@@ -301,4 +305,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
