@@ -6,6 +6,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0200-number-of-islands](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -167,6 +168,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
@@ -319,4 +321,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
