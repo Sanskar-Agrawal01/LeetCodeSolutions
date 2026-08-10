@@ -95,6 +95,7 @@
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -213,6 +214,7 @@
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1840-maximum-building-height](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -309,17 +311,28 @@
 | ------- |
 | [0877-stone-game](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0047-permutations-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
