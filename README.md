@@ -32,6 +32,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/3838-weighted-word-mapping) |
