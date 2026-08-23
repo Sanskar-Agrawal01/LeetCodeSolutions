@@ -343,4 +343,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Sanskar-Agrawal01/LeetCodeSolutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
